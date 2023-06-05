@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)]
 <h1 align="center">Hi 👋, I'm Javedbasha Shaik</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
