@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **Bootstrap, CSS, Javascript**
+- 🌱 I’m currently learning **BootStrap, Javascript**
 
 - 💬 Ask me about **Bootstrap, HTML, CSS, JAVA, PYTHON**
 
