@@ -13,9 +13,6 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **Javascript**
-
-- 💬 Ask me about **HTML, CSS, Bootstrap, JAVA, PYTHON**
 
 - 📫 How to reach me **javedbasha472@gmail.com**
 
